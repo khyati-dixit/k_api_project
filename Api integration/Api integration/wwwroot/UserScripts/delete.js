@@ -5,14 +5,20 @@
     if (result) {
         $.ajax({
             url: 'http://localhost:63313/api/Values/'+id,
+            headers: {
+                'Accept': 'application/json',
+                'Content-Type': 'application/json',
+                "Authorization": "Bearer " + localStorage.getItem('token')
+            },
             type: 'Delete',
-            dataType: 'html',
+            //dataType: 'html',
             success: function (data) {
                 //window.reload();
 
             }
 
         });
+
 
     }
     location.reload();
