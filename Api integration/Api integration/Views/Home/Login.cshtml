@@ -1,0 +1,29 @@
+﻿
+<div class="row" style="        background-color: black;
+        background: rgba(0, 0, 0, 0.6);
+        background: transparent\9;
+        align-content:center;
+        padding:50px;
+        margin:50px;
+        ">
+    <div class="col-md-6 align-content-center">
+        <form id="AddUser" method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label style="color:white; font-size:large">UserName</label>
+                <input class="form-control" id="n1" name="AName1" type="text" />
+                <span id="nameval" class="field-validation-error"></span>
+            </div>
+            <div class="form-group">
+                <label style="color:white; font-size:large">Password</label>
+                <input class="form-control" id="p1" name="APassword1" type="text" />
+                <span id="latval" class="field-validation-error"></span>
+            </div>
+            <input type="hidden" id="action" name="action" />
+            <input type="submit" class="btn btn-primary" id="btnLogin" value="submit"/>
+        </form>
+    </div>
+</div>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="~/UserScripts/LogIn.js"></script>

@@ -1,0 +1,138 @@
+﻿@{
+    ViewData["Title"] = "Register";
+}
+<h1 style="color:lightgoldenrodyellow">Register</h1>
+<div class="row" style="background-color: black;
+        background: rgba(0, 0, 0, 0.6);
+        background: transparent\9;
+        align-content:center;
+        padding:50px;
+        margin:50px;
+        ">
+    <h4 style="color:lightcoral">Registration Details</h4>
+
+    <div class="col-md-12">
+        <form id="AddUser" method="post" enctype="multipart/form-data">
+            <table>
+                <tr>
+                    <td>
+                        <div class="form-group row">
+                            <label for="first_name" class="col-sm-2 col-form-label" style="color:lightgoldenrodyellow; font-size:large">First Name</label>
+                            <div class="col-sm-10">
+                                <input type="text"  class="form-control-plaintext" id="first_name" style="color:lightgoldenrodyellow">
+                            </div>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="form-group row">
+                            <label for="last_name" class="col-sm-2 col-form-label" style="color:lightgoldenrodyellow; font-size:large">Last Name</label>
+                            <div class="col-sm-10">
+                                <input type="text"  class="form-control-plaintext" id="last_name" style="color:lightgoldenrodyellow">
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="form-group">
+                            <label for="address" style="color:lightgoldenrodyellow; font-size:large">Permanent Address</label>
+                            <textarea class="form-control-plaintext" id="address" rows="3" style="color:lightgoldenrodyellow"></textarea>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="form-group row">
+                            <label for="phone" class="col-sm-2 col-form-label" style="color:lightgoldenrodyellow; font-size:large">Phone No.</label>
+                            <div class="col-sm-10">
+                                <input type="text"  class="form-control-plaintext" id="phone" style="color:lightgoldenrodyellow">
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="form-group row">
+                            <label name="email" class="col-sm-2 col-form-label" style="color:white; font-size:large" >Email</label>
+                            <div class="col-sm-10">
+                                <input type="text" class="form-control-plaintext" id="e" name="email" >
+                            </div>
+                            <span id="latval" class="field-validation-error"></span>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="form-group row">
+                            <label name="password" class="col-sm-2 col-form-label" style="color:lightgoldenrodyellow; font-size:large">Password</label>
+                            <div class="col-sm-10">
+                                <input type="password" class="form-control-plaintext" id="p" name="password" placeholder="password" style="color:lightgoldenrodyellow; font-size:large">
+                            </div>
+                            <span id="latval" class="field-validation-error"></span>
+                        </div>
+                    </td>
+                </tr>
+                <tr><td>
+                   <div class="form-group">
+                    <label  class="col-sm-2 col-form-label" style="color:white; font-size:large" for="username">UserName</label>
+                   <input class="form-control-plaintext" id="n" name="username" type="text" />
+                    <span id="nameval" class="field-validation-error"></span>
+                    </div>
+                </td></tr>
+                <tr>
+                    <td>
+                        <div class="form-group">
+                            <fieldset>
+                            <legend>Gender</legend>
+                            <div class="custom-control custom-radio">
+                                <input type="radio" id="Female" name="customRadio" class="custom-control-input" checked="" style="color:lightgoldenrodyellow">
+                                <label class="custom-control-label" for="Female" style="color:lightgoldenrodyellow">Male</label>
+                            </div>
+                            <div class="custom-control custom-radio">
+                                <input type="radio" id="Male" name="customRadio" class="custom-control-input" style="color:lightgoldenrodyellow">
+                                <label class="custom-control-label" for="Male" style="color:lightgoldenrodyellow">Female</label>
+                            </div>
+                                </fieldset>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="form-group">
+                            <div class="custom-control custom-checkbox">
+                                <input type="checkbox" class="custom-control-input" id="1" checked="" >
+                                <label class="custom-control-label" for="1" style="color:lightgoldenrodyellow">.NET</label>
+                            </div>
+                            <div class="custom-control custom-checkbox">
+                                <input type="checkbox" class="custom-control-input" id="2" >
+                                <label class="custom-control-label" for="2" style="color:lightgoldenrodyellow">ASP.NET CORE</label>
+                            </div>
+                            <div class="custom-control custom-checkbox">
+                                <input type="checkbox" class="custom-control-input" id="3" >
+                                <label class="custom-control-label" for="3" style="color:lightgoldenrodyellow">AJAX</label>
+                            </div>
+                            <div class="custom-control custom-checkbox">
+                                <input type="checkbox" class="custom-control-input" id="4">
+                                <label class="custom-control-label" for="4" style="color:lightgoldenrodyellow">JQuery</label>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div>
+                            <input type="submit" class="btn btn-primary" id="btnSave" value="Submit" />
+                        </div>
+                    </td>
+                    </tr>
+            </table>
+           
+            <input type="hidden" id="action" name="action" />
+        </form>
+    </div>
+
+</div>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="~/UserScripts/Register.js"></script>
+
+
+@*
+        <form>
+            
+    </form>
+*@

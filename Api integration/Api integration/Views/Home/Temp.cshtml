@@ -1,0 +1,23 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+</head>
+<body>
+    <nav class="navbar navbar-inverse" style="background-color: black;
+        margin-top: 300px;
+        padding: 100px;
+        background: rgba(0, 0, 0, 0.6);
+        background: transparent\9;
+">
+        <div class="container-fluid">
+            <button class="btn btn-outline-secondary btn-lg">@Html.ActionLink("Register", "Register", "Home", new { Style = "color:white" })</button>
+            <span class="glyphicon glyphicon-log-in"></span>
+            <button class="btn btn-outline-primary btn-lg">@Html.ActionLink("Login", "Login", "Home")</button>
+        </div>
+    </nav>
+</body>
+</html>

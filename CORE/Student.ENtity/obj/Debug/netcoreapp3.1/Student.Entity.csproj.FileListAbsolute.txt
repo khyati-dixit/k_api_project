@@ -1,0 +1,30 @@
+C:\Rukhsar\CORE\CORE\Student.ENtity\bin\Debug\netcoreapp3.1\Student.Entity.deps.json
+C:\Rukhsar\CORE\CORE\Student.ENtity\bin\Debug\netcoreapp3.1\Student.Entity.dll
+C:\Rukhsar\CORE\CORE\Student.ENtity\obj\Debug\netcoreapp3.1\Student.Entity.csprojAssemblyReference.cache
+C:\Rukhsar\CORE\CORE\Student.ENtity\obj\Debug\netcoreapp3.1\Student.Entity.AssemblyInfoInputs.cache
+C:\Rukhsar\CORE\CORE\Student.ENtity\obj\Debug\netcoreapp3.1\Student.Entity.AssemblyInfo.cs
+C:\Rukhsar\CORE\CORE\Student.ENtity\bin\Debug\netcoreapp3.1\Student.Entity.pdb
+C:\Rukhsar\CORE\CORE\Student.ENtity\bin\Debug\netcoreapp3.1\Student.DTO.dll
+C:\Rukhsar\CORE\CORE\Student.ENtity\bin\Debug\netcoreapp3.1\Student.DTO.pdb
+C:\Rukhsar\CORE\CORE\Student.ENtity\obj\Debug\netcoreapp3.1\Student.Entity.csproj.CopyComplete
+C:\Rukhsar\CORE\CORE\Student.ENtity\obj\Debug\netcoreapp3.1\Student.Entity.dll
+C:\Rukhsar\CORE\CORE\Student.ENtity\obj\Debug\netcoreapp3.1\Student.Entity.pdb
+C:\Rukhsar\CORE\CORE\Student.ENtity\bin\Debug\netcoreapp3.1\Student.Entity.runtimeconfig.json
+C:\Rukhsar\CORE\CORE\Student.ENtity\bin\Debug\netcoreapp3.1\Student.Entity.runtimeconfig.dev.json
+C:\Rukhsar\CORE\CORE\Student.ENtity\obj\Debug\netcoreapp3.1\Student.Entity.genruntimeconfig.cache
+C:\Rukhsar\CORE\CORE\Student.ENtity\obj\Debug\netcoreapp3.1\Student.Entity.csproj.CoreCompileInputs.cache
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\Student.ENtity\bin\Debug\netcoreapp3.1\Student.Entity.deps.json
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\Student.ENtity\bin\Debug\netcoreapp3.1\Student.Entity.runtimeconfig.json
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\Student.ENtity\bin\Debug\netcoreapp3.1\Student.Entity.runtimeconfig.dev.json
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\Student.ENtity\bin\Debug\netcoreapp3.1\Student.Entity.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\Student.ENtity\bin\Debug\netcoreapp3.1\Student.Entity.pdb
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\Student.ENtity\bin\Debug\netcoreapp3.1\Student.DTO.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\Student.ENtity\bin\Debug\netcoreapp3.1\Student.DTO.pdb
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\Student.ENtity\obj\Debug\netcoreapp3.1\Student.Entity.csprojAssemblyReference.cache
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\Student.ENtity\obj\Debug\netcoreapp3.1\Student.Entity.AssemblyInfoInputs.cache
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\Student.ENtity\obj\Debug\netcoreapp3.1\Student.Entity.AssemblyInfo.cs
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\Student.ENtity\obj\Debug\netcoreapp3.1\Student.Entity.csproj.CoreCompileInputs.cache
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\Student.ENtity\obj\Debug\netcoreapp3.1\Student.Entity.csproj.CopyComplete
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\Student.ENtity\obj\Debug\netcoreapp3.1\Student.Entity.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\Student.ENtity\obj\Debug\netcoreapp3.1\Student.Entity.pdb
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\Student.ENtity\obj\Debug\netcoreapp3.1\Student.Entity.genruntimeconfig.cache

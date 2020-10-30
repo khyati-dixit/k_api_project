@@ -1,0 +1,185 @@
+C:\Users\vinove\source\repos\LayeredCRUD\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vinove\source\repos\LayeredCRUD\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vinove\source\repos\LayeredCRUD\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\vinove\source\repos\LayeredCRUD\bin\Debug\netcoreapp3.1\LayeredCRUD.exe
+C:\Users\vinove\source\repos\LayeredCRUD\bin\Debug\netcoreapp3.1\LayeredCRUD.deps.json
+C:\Users\vinove\source\repos\LayeredCRUD\bin\Debug\netcoreapp3.1\LayeredCRUD.runtimeconfig.json
+C:\Users\vinove\source\repos\LayeredCRUD\bin\Debug\netcoreapp3.1\LayeredCRUD.runtimeconfig.dev.json
+C:\Users\vinove\source\repos\LayeredCRUD\bin\Debug\netcoreapp3.1\LayeredCRUD.dll
+C:\Users\vinove\source\repos\LayeredCRUD\bin\Debug\netcoreapp3.1\LayeredCRUD.pdb
+C:\Users\vinove\source\repos\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vinove\source\repos\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\vinove\source\repos\LayeredCRUD\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\vinove\source\repos\LayeredCRUD\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\vinove\source\repos\LayeredCRUD\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\vinove\source\repos\LayeredCRUD\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\vinove\source\repos\LayeredCRUD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vinove\source\repos\LayeredCRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\vinove\source\repos\LayeredCRUD\bin\Debug\netcoreapp3.1\StudentDTO.dll
+C:\Users\vinove\source\repos\LayeredCRUD\bin\Debug\netcoreapp3.1\StudentRepository.dll
+C:\Users\vinove\source\repos\LayeredCRUD\bin\Debug\netcoreapp3.1\StudentRepository.pdb
+C:\Users\vinove\source\repos\LayeredCRUD\bin\Debug\netcoreapp3.1\StudentDTO.pdb
+C:\Users\vinove\source\repos\LayeredCRUD\obj\Debug\netcoreapp3.1\LayeredCRUD.csprojAssemblyReference.cache
+C:\Users\vinove\source\repos\LayeredCRUD\obj\Debug\netcoreapp3.1\LayeredCRUD.AssemblyInfoInputs.cache
+C:\Users\vinove\source\repos\LayeredCRUD\obj\Debug\netcoreapp3.1\LayeredCRUD.AssemblyInfo.cs
+C:\Users\vinove\source\repos\LayeredCRUD\obj\Debug\netcoreapp3.1\LayeredCRUD.csproj.CoreCompileInputs.cache
+C:\Users\vinove\source\repos\LayeredCRUD\obj\Debug\netcoreapp3.1\LayeredCRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vinove\source\repos\LayeredCRUD\obj\Debug\netcoreapp3.1\LayeredCRUD.RazorTargetAssemblyInfo.cache
+C:\Users\vinove\source\repos\LayeredCRUD\obj\Debug\netcoreapp3.1\LayeredCRUD.csproj.CopyComplete
+C:\Users\vinove\source\repos\LayeredCRUD\obj\Debug\netcoreapp3.1\staticwebassets\LayeredCRUD.StaticWebAssets.Manifest.cache
+C:\Users\vinove\source\repos\LayeredCRUD\obj\Debug\netcoreapp3.1\staticwebassets\LayeredCRUD.StaticWebAssets.xml
+C:\Users\vinove\source\repos\LayeredCRUD\obj\Debug\netcoreapp3.1\LayeredCRUD.dll
+C:\Users\vinove\source\repos\LayeredCRUD\obj\Debug\netcoreapp3.1\LayeredCRUD.pdb
+C:\Users\vinove\source\repos\LayeredCRUD\obj\Debug\netcoreapp3.1\LayeredCRUD.genruntimeconfig.cache
+C:\Rukhsar\CORE\CORE\LayeredCRUD\obj\Debug\netcoreapp3.1\LayeredCRUD.csprojAssemblyReference.cache
+C:\Rukhsar\CORE\CORE\LayeredCRUD\obj\Debug\netcoreapp3.1\LayeredCRUD.AssemblyInfoInputs.cache
+C:\Rukhsar\CORE\CORE\LayeredCRUD\obj\Debug\netcoreapp3.1\LayeredCRUD.AssemblyInfo.cs
+C:\Rukhsar\CORE\CORE\LayeredCRUD\obj\Debug\netcoreapp3.1\LayeredCRUD.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\obj\Debug\netcoreapp3.1\LayeredCRUD.pdb
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\LayeredCRUD.exe
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\LayeredCRUD.deps.json
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\LayeredCRUD.runtimeconfig.json
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\LayeredCRUD.runtimeconfig.dev.json
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\LayeredCRUD.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\LayeredCRUD.pdb
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Student.DTO.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Student.Entity.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\StudentRepository.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\StudentRepository.pdb
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Student.DTO.pdb
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Student.Entity.pdb
+C:\Rukhsar\CORE\CORE\LayeredCRUD\obj\Debug\netcoreapp3.1\LayeredCRUD.RazorTargetAssemblyInfo.cache
+C:\Rukhsar\CORE\CORE\LayeredCRUD\obj\Debug\netcoreapp3.1\LayeredCRUD.csproj.CopyComplete
+C:\Rukhsar\CORE\CORE\LayeredCRUD\obj\Debug\netcoreapp3.1\staticwebassets\LayeredCRUD.StaticWebAssets.Manifest.cache
+C:\Rukhsar\CORE\CORE\LayeredCRUD\obj\Debug\netcoreapp3.1\staticwebassets\LayeredCRUD.StaticWebAssets.xml
+C:\Rukhsar\CORE\CORE\LayeredCRUD\obj\Debug\netcoreapp3.1\LayeredCRUD.genruntimeconfig.cache
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Rukhsar\CORE\CORE\LayeredCRUD\obj\Debug\netcoreapp3.1\LayeredCRUD.csproj.CoreCompileInputs.cache
+C:\Rukhsar\CORE\CORE\LayeredCRUD\obj\Debug\netcoreapp3.1\LayeredCRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\LayeredCRUD.exe
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\LayeredCRUD.deps.json
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\LayeredCRUD.runtimeconfig.json
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\LayeredCRUD.runtimeconfig.dev.json
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\LayeredCRUD.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\LayeredCRUD.pdb
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Student.DTO.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Student.Entity.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\StudentRepository.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\StudentRepository.pdb
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Student.DTO.pdb
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\bin\Debug\netcoreapp3.1\Student.Entity.pdb
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\obj\Debug\netcoreapp3.1\LayeredCRUD.csprojAssemblyReference.cache
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\obj\Debug\netcoreapp3.1\LayeredCRUD.AssemblyInfoInputs.cache
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\obj\Debug\netcoreapp3.1\LayeredCRUD.AssemblyInfo.cs
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\obj\Debug\netcoreapp3.1\LayeredCRUD.csproj.CoreCompileInputs.cache
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\obj\Debug\netcoreapp3.1\LayeredCRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\obj\Debug\netcoreapp3.1\LayeredCRUD.RazorTargetAssemblyInfo.cache
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\obj\Debug\netcoreapp3.1\LayeredCRUD.csproj.CopyComplete
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\obj\Debug\netcoreapp3.1\staticwebassets\LayeredCRUD.StaticWebAssets.Manifest.cache
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\obj\Debug\netcoreapp3.1\staticwebassets\LayeredCRUD.StaticWebAssets.xml
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\obj\Debug\netcoreapp3.1\LayeredCRUD.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\obj\Debug\netcoreapp3.1\LayeredCRUD.pdb
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\LayeredCRUD\obj\Debug\netcoreapp3.1\LayeredCRUD.genruntimeconfig.cache

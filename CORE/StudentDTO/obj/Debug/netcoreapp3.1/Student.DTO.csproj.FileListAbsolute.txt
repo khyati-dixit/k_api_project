@@ -1,0 +1,24 @@
+C:\Rukhsar\CORE\CORE\StudentDTO\bin\Debug\netcoreapp3.1\Student.DTO.deps.json
+C:\Rukhsar\CORE\CORE\StudentDTO\bin\Debug\netcoreapp3.1\Student.DTO.dll
+C:\Rukhsar\CORE\CORE\StudentDTO\bin\Debug\netcoreapp3.1\Student.DTO.pdb
+C:\Rukhsar\CORE\CORE\StudentDTO\obj\Debug\netcoreapp3.1\Student.DTO.csprojAssemblyReference.cache
+C:\Rukhsar\CORE\CORE\StudentDTO\obj\Debug\netcoreapp3.1\Student.DTO.AssemblyInfoInputs.cache
+C:\Rukhsar\CORE\CORE\StudentDTO\obj\Debug\netcoreapp3.1\Student.DTO.AssemblyInfo.cs
+C:\Rukhsar\CORE\CORE\StudentDTO\obj\Debug\netcoreapp3.1\Student.DTO.dll
+C:\Rukhsar\CORE\CORE\StudentDTO\obj\Debug\netcoreapp3.1\Student.DTO.pdb
+C:\Rukhsar\CORE\CORE\StudentDTO\bin\Debug\netcoreapp3.1\Student.DTO.runtimeconfig.json
+C:\Rukhsar\CORE\CORE\StudentDTO\bin\Debug\netcoreapp3.1\Student.DTO.runtimeconfig.dev.json
+C:\Rukhsar\CORE\CORE\StudentDTO\obj\Debug\netcoreapp3.1\Student.DTO.genruntimeconfig.cache
+C:\Rukhsar\CORE\CORE\StudentDTO\obj\Debug\netcoreapp3.1\Student.DTO.csproj.CoreCompileInputs.cache
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\StudentDTO\bin\Debug\netcoreapp3.1\Student.DTO.deps.json
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\StudentDTO\bin\Debug\netcoreapp3.1\Student.DTO.runtimeconfig.json
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\StudentDTO\bin\Debug\netcoreapp3.1\Student.DTO.runtimeconfig.dev.json
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\StudentDTO\bin\Debug\netcoreapp3.1\Student.DTO.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\StudentDTO\bin\Debug\netcoreapp3.1\Student.DTO.pdb
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\StudentDTO\obj\Debug\netcoreapp3.1\Student.DTO.csprojAssemblyReference.cache
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\StudentDTO\obj\Debug\netcoreapp3.1\Student.DTO.AssemblyInfoInputs.cache
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\StudentDTO\obj\Debug\netcoreapp3.1\Student.DTO.AssemblyInfo.cs
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\StudentDTO\obj\Debug\netcoreapp3.1\Student.DTO.csproj.CoreCompileInputs.cache
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\StudentDTO\obj\Debug\netcoreapp3.1\Student.DTO.dll
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\StudentDTO\obj\Debug\netcoreapp3.1\Student.DTO.pdb
+C:\Users\khyati dixit\Desktop\28\rukss\CORE\StudentDTO\obj\Debug\netcoreapp3.1\Student.DTO.genruntimeconfig.cache
